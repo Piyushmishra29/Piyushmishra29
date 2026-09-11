@@ -1,80 +1,53 @@
 <p>
-  <img src="assets/free-to-build.svg" width="100%" alt="Piyush Mishra. 25. Free to build. Code, circuits, cameras, curiosity.">
+  <img src="assets/identity.svg" width="100%" alt="Piyush Mishra — independent builder. Software, hardware, image making.">
 </p>
 
-# Hey, I'm Piyush. Call me Pi.
+### I build things. Some of them stay on the internet.
 
-**25. A free man with a soldering iron, a camera, and too many ideas to leave unbuilt.**
+I'm **Piyush — Pi for short.** I work across code, cameras, and physical hardware. Cinematic websites, custom electronics, self-hosted tools, things that come off a 3D printer. I tend to follow a project wherever it goes.
 
-I make websites that move, hardware that moves, and tools that get the boring stuff out of the way. My repos wander from steel factories to surf schools, from tiny sensor screens to entire storefronts. I like following an idea all the way into something you can use, hold, or get a little distracted by.
+A steel factory, a surf school, a hacked Kindle, a motorised drawer. Same person.
 
-Some days it's TypeScript. Some days it's filament. Occasionally, it's an airline chime.
+[**Selected work ↓**](#selected-work) &nbsp; / &nbsp; [**The archive ↓**](#the-archive) &nbsp; / &nbsp; [**All repositories ↗**](https://github.com/Piyushmishra29?tab=repositories)
 
-**[Explore the builds ↓](#a-few-good-rabbit-holes)** &nbsp; / &nbsp; **[Browse the collection ↓](#the-rest-of-the-workshop)**
-
----
-
-## A few good rabbit holes
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 / The web, with a pulse</h3>
-<a href="https://github.com/Piyushmishra29/ommi-forge-web"><b>Ommi Forge ↗</b></a>
-<p>A steel-forging company's story told through scroll choreography and nine interactive 3D parts. Heavy industry, with a cinematic eye.</p>
-<sub>Next.js · React Three Fiber · GSAP</sub>
+<a href="https://github.com/Piyushmishra29/ommi-forge-web"><img src="assets/ommi-forge.png" width="100%" alt="Ommi Forge website: Forged in India over an aerial view of the factory."></a>
+<h3><a href="https://github.com/Piyushmishra29/ommi-forge-web">Ommi Forge ↗</a></h3>
+<p>Heavy industry, on screen. A cinematic website with nine interactive 3D parts and scroll-driven storytelling.</p>
+<sub>NEXT.JS / THREE.JS / GSAP</sub>
 </td>
 <td width="50%" valign="top">
-<h3>02 / Code you can hold</h3>
-<a href="https://github.com/Piyushmishra29/shopkeeper"><b>Shopkeeper ↗</b></a>
-<p>A working motorised tool-cabinet demonstrator. Enter a PIN, one drawer opens, and the pick gets logged. Firmware meets filament.</p>
-<sub>ESP32-S3 · MicroPython · Parametric CAD</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / Own your storefront</h3>
-<a href="https://github.com/Piyushmishra29/liquid-storefront"><b>Liquid Storefront ↗</b></a>
-<p>A self-hosted engine for Shopify theme exports, with a cart, admin, payments, and your own data. Born from getting a real store back online.</p>
-<sub>Node.js · LiquidJS · PostgreSQL · Razorpay</sub>
-</td>
-<td width="50%" valign="top">
-<h3>04 / A little field science</h3>
-<a href="https://github.com/Piyushmishra29/npk-dash"><b>NPK Dash ↗</b></a>
-<p>A real soil probe, a live dashboard, and the register-map detective work that connects them. Getting my hands dirty, quite literally.</p>
-<sub>Python · RS-485 · Modbus RTU</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>05 / Footage into feeling</h3>
-<a href="https://github.com/Piyushmishra29/reel-edit-pipeline"><b>Reel Edit Pipeline ↗</b></a>
-<p>Raw event and drone footage into beat-synced reels. Detect shaky clips, cut to the music, and let the GPU do the heavy lifting.</p>
-<sub>Python · FFmpeg · NVENC · librosa</sub>
-</td>
-<td width="50%" valign="top">
-<h3>06 / Take the scenic route</h3>
-<a href="https://github.com/Piyushmishra29/surfing-ants"><b>Surfing Ants ↗</b></a>
-<p>A surf-school website for Weligama Bay with a live surf report and a beach-shack identity. A weather station with sand between its toes.</p>
-<sub>Next.js · Open-Meteo · Sri Lanka</sub>
+<a href="https://github.com/Piyushmishra29/shopkeeper"><img src="assets/shopkeeper.gif" width="100%" alt="CAD mechanism animation of the Shopkeeper drawer opening and closing."></a>
+<h3><a href="https://github.com/Piyushmishra29/shopkeeper">Shopkeeper ↗</a></h3>
+<p>Enter a PIN. A drawer opens. The pick gets logged. A working tool-cabinet demonstrator built from firmware and filament.</p>
+<sub>ESP32 / MICROPYTHON / PARAMETRIC CAD</sub>
 </td>
 </tr>
 </table>
 
-## Things I keep coming back to
+| Build | What it does |
+| :--- | :--- |
+| [**Liquid Storefront ↗**](https://github.com/Piyushmishra29/liquid-storefront) | Runs a Shopify theme on your own server. Cart, admin, payments, your data. |
+| [**NPK Dash ↗**](https://github.com/Piyushmishra29/npk-dash) | Turns a real soil probe's Modbus registers into a live dashboard. |
+| [**Reel Edit Pipeline ↗**](https://github.com/Piyushmishra29/reel-edit-pipeline) | Turns event and drone footage into beat-synced reels with GPU rendering. |
+| [**Surfing Ants ↗**](https://github.com/Piyushmishra29/surfing-ants) | A Weligama surf-school site with a live ocean report. |
 
-**Make it feel good.** Typography, motion, a satisfying interaction. The details are part of the build.
+<sub>ALSO: <a href="https://github.com/Piyushmishra29/paperwitch">a Kindle with other plans</a> · <a href="https://github.com/Piyushmishra29/mete">a dot-matrix focus timer</a> · <a href="https://github.com/Piyushmishra29/bing-bong">an airline chime for finished prompts</a></sub>
 
-**Make it tangible.** A printed enclosure, a moving drawer, a sensor reading something real.
+<br>
 
-**Make room for fun.** A hacked Kindle, a dot-matrix timer, or a tiny chime that makes finishing a task feel like landing a plane.
+**On the bench**  
+TypeScript · Python · React / Next.js · Node.js · Three.js · GSAP · PostgreSQL  
+ESP32 · Raspberry Pi · CAD · 3D printing · FFmpeg
 
-**Tools on the bench:** JavaScript / TypeScript · React / Next.js · Python · Node.js · Three.js / R3F · GSAP · PostgreSQL · ESP32 / Raspberry Pi · CAD / 3D printing · FFmpeg
-
-## The rest of the workshop
+## The archive
 
 <details>
-<summary><b>Websites with a point of view</b> — coffee, cinema, people, places</summary>
+<summary><b>Web & visual design</b> — coffee, cinema, people, places</summary>
 
 | Project | The idea |
 | :--- | :--- |
@@ -91,7 +64,7 @@ Some days it's TypeScript. Some days it's filament. Occasionally, it's an airlin
 </details>
 
 <details>
-<summary><b>Circuits, sensors & printed things</b> — software leaves the screen</summary>
+<summary><b>Hardware & fabrication</b> — software leaves the screen</summary>
 
 | Project | The idea |
 | :--- | :--- |
@@ -106,7 +79,7 @@ Some days it's TypeScript. Some days it's filament. Occasionally, it's an airlin
 </details>
 
 <details>
-<summary><b>Useful tools & delightful detours</b> — commerce, creative pipelines, small joys</summary>
+<summary><b>Tools & experiments</b> — commerce, creative pipelines, small joys</summary>
 
 | Project | The idea |
 | :--- | :--- |
@@ -123,7 +96,7 @@ Some days it's TypeScript. Some days it's filament. Occasionally, it's an airlin
 </details>
 
 <details>
-<summary><b>Saltwater & the scenic route</b> — surf, travel, identities</summary>
+<summary><b>Surf & travel</b> — surf, travel, identities</summary>
 
 | Project | The idea |
 | :--- | :--- |
@@ -135,9 +108,3 @@ Some days it's TypeScript. Some days it's filament. Occasionally, it's an airlin
 | [South Coast '26](https://github.com/Piyushmishra29/south-coast-26) | A zine-inspired Sri Lanka trip website |
 
 </details>
-
-<br>
-
-<p>
-  <img src="assets/keep-wandering.svg" width="100%" alt="Stay curious. Make things. Take the detour.">
-</p>
