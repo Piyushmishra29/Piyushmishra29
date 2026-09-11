@@ -40,8 +40,8 @@ A steel factory, a surf school, a hacked Kindle, a motorised drawer. Same person
 
 <br>
 
-**On the bench**  
-TypeScript · Python · React / Next.js · Node.js · Three.js · GSAP · PostgreSQL  
+**On the bench**<br>
+TypeScript · Python · React / Next.js · Node.js · Three.js · GSAP · PostgreSQL<br>
 ESP32 · Raspberry Pi · CAD · 3D printing · FFmpeg
 
 ## The archive
