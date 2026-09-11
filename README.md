@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/identity.svg" width="100%" alt="Piyush Mishra — independent builder. Software, hardware, image making.">
+  <img src="assets/profile-editor.svg" width="100%" alt="Piyush Mishra — code, circuits, cameras. A GitHub-style repository header with an about.ts code panel.">
 </p>
 
 ### I build things. Some of them stay on the internet.
